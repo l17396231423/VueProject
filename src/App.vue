@@ -5,6 +5,7 @@
 </template>
 <script>
 /**这是入口页面 */
+/**我在分支leiyi下修改了代码 */
 export default {
   name:'App',
 }
