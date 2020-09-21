@@ -4,7 +4,7 @@
   </div>
 </template>
 <script>
-
+/**这是入口页面 */
 export default {
   name:'App',
 }
